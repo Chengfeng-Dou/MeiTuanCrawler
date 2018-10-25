@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.github.crashvb:chromedriver:2.41" type="repository">
+    <properties maven-id="com.github.crashvb:chromedriver:2.41" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/crashvb/chromedriver/2.41/chromedriver-2.41.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
